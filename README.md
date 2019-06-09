@@ -2,6 +2,8 @@
 
 Helpful guide for world domination.
 
+![World Domination](world-domination.jpg)
+
 The backend repo for a demo given for the lightning talk
 The Rise of the State Machine for the Oslo Python Meetup June 2019.
 
